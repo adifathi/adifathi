@@ -26,4 +26,4 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ---
 
-![Power BI Demo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
